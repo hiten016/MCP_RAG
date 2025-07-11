@@ -1,0 +1,8 @@
+langchain 
+langgraph 
+python-dotenv 
+pandas 
+faiss 
+sentence-transformers 
+PyMuPDF 
+
